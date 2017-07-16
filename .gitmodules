@@ -4,3 +4,6 @@
 [submodule "gs-config-server"]
 	path = gs-config-server
 	url = git@github.com:pengisgood/spring-cloud-gs-config-server.git
+[submodule "gs-service-book"]
+	path = gs-service-book
+	url = git@github.com:pengisgood/spring-cloud-gs-service-book.git
